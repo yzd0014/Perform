@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PieChartRenderer.drawHighlighted(context : CGContext, indices : [ChartHighlight]) -&gt; ():PieChartRenderer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chart.radius">
+            </PersistentString>
+            <PersistentString
+               value = "translationAngle">
+            </PersistentString>
+            <PersistentString
+               value = "translationX">
+            </PersistentString>
+            <PersistentString
+               value = "translationY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PieChartRenderer.init(chart : PieChartView, animator : ChartAnimator?, viewPortHandler : ChartViewPortHandler) -&gt; PieChartRenderer:PieChartRenderer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chart.radius">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PieChartView.initialize() -&gt; ():PieChartView.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
